@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://nabillar.github.io/sitemap.xml 
